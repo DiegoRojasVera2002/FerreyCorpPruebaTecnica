@@ -1,0 +1,35 @@
+**Paso 1**:
+* Start: 00:00
+* End: 00:00
+* Action: La imagen muestra varios ingredientes y utensilios de cocina sobre una encimera, incluyendo harina, un huevo, aceite de oliva, tazas medidoras, un batidor, una espátula y un tazón. Los ingredientes parecen estar listos para su uso, lo que sugiere que se está preparando una receta.
+* Label: CORRECT
+* Error: None
+
+**Paso 2**:
+* Start: 00:00
+* End: 00:09
+* Action: Los ingredientes requeridos para el siguiente paso (harina, huevo, leche) están disponibles en la encimera. También se observan aceite y otros utensilios de cocina.
+* Label: CORRECT
+* Error: None
+
+**Paso 3**:
+* Start: 00:09
+* End: 00:19
+* Action: Se observa a una persona sosteniendo una cuchara medidora negra sobre un recipiente blanco, probablemente para medir un ingrediente. Hay varios ingredientes sobre la superficie, incluyendo harina, aceite de oliva, y leche condensada.
+* Label: CORRECT
+* Error: None
+
+**Paso 4**:
+* Start: 00:19
+* End: 00:29
+* Action: Una persona está vertiendo una sustancia blanca, posiblemente harina, de una taza medidora en un tazón blanco.
+* Label: CORRECT
+* Error: None
+
+**Paso 5**:
+* Start: 00:29
+* End: 00:39
+* Action: Se está vertiendo harina en un tazón blanco, presumiblemente como parte del proceso de preparación de panqueques según la receta proporcionada.
+* Label: CORRECT
+* Error: None
+

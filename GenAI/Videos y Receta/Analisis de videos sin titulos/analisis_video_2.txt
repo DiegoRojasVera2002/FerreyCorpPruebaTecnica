@@ -1,0 +1,112 @@
+**Paso 1**:
+* Start: 00:00
+* End: 00:00
+* Action: La imagen muestra una encimera de cocina con varios ingredientes y utensilios. No se observa una acción específica relacionada con la preparación de panqueques, como mezclar ingredientes o cocinar.
+* Label: CORRECT
+* Error: None
+
+**Paso 2**:
+* Start: 00:00
+* End: 00:09
+* Action: La persona está rompiendo un huevo dentro de un bol transparente. En la mesa hay harina de avena, aceite de oliva y miel.
+* Label: CORRECT
+* Error: None
+
+**Paso 3**:
+* Start: 00:09
+* End: 00:19
+* Action: La mano sostiene y coloca una botella de leche sobre la encimera, cerca de una taza, un batidor y un paquete de tortillas.
+* Label: CORRECT
+* Error: None
+
+**Paso 4**:
+* Start: 00:19
+* End: 00:29
+* Action: Vertiendo harina para panqueques en una taza.
+* Label: WRONG
+* Error: El paso 4 de la receta describe cómo cocinar los panqueques en una sartén y este paso actual es verter la harina en una taza. Esto no coincide con el paso 4.
+
+**Paso 4**:
+* Start: 00:19
+* End: 00:39
+* Action: En un tazón de vidrio hay 3 yemas de huevo. Al lado, hay una taza con un polvo blanco, presumiblemente harina. Además, hay otros ingredientes como aceite de oliva y vainilla sobre la encimera.
+* Label: WRONG
+* Error: El paso indica calentar la sartén con aceite o mantequilla y añadir la mezcla, pero en el video se está preparando la mezcla con los ingredientes.
+
+**Paso 4**:
+* Start: 00:19
+* End: 00:49
+* Action: La persona está intentando abrir un tarro blanco, posiblemente para agregar un ingrediente a la mezcla en el tazón, se presume que es la harina necesaria para el paso de la receta
+* Label: WRONG
+* Error: None
+
+**Paso 4**:
+* Start: 00:19
+* End: 00:59
+* Action: Preparando los ingredientes: Se observa una mano sosteniendo un bote de polvo blanco (posiblemente harina) junto a una taza, un bol con algo que podría ser arroz u otro ingrediente seco, una botella de aceite, y otros ingredientes en la encimera.
+* Label: WRONG
+* Error: El paso 4 implica cocinar los panqueques, pero la acción observada es la preparación de los ingredientes.
+
+**Paso 4**:
+* Start: 00:19
+* End: 01:09
+* Action: La persona está vertiendo leche en un tazón que contiene avena. La leche proviene de un cartón blanco con diseños morados.
+* Label: WRONG
+* Error: Este paso no corresponde con el calentamiento de la sartén, la adición de aceite o mantequilla, o la adición de mezcla en la sartén.
+
+**Paso 4**:
+* Start: 00:19
+* End: 01:19
+* Action: La persona está mezclando ingredientes en un bol con un batidor de alambre.
+* Label: WRONG
+* Error: None
+
+**Paso 4**:
+* Start: 00:19
+* End: 01:29
+* Action: Batir una mezcla en un bol con un batidor.
+* Label: CORRECT
+* Error: None
+
+**Paso 5**:
+* Start: 01:29
+* End: 01:39
+* Action: Se observa una persona mezclando los ingredientes para hacer panqueques en un tazón con un batidor. Se puede ver la masa en el tazón y otros ingredientes como leche, aceite, miel y harina cerca.
+* Label: WRONG
+* Error: None
+
+**Paso 5**:
+* Start: 01:29
+* End: 01:49
+* Action: La persona está mezclando los ingredientes en un bol usando un batidor de varillas. Se observan los ingredientes como harina, leche y huevo.
+* Label: WRONG
+* Error: None
+
+**Paso 5**:
+* Start: 01:29
+* End: 01:59
+* Action: Se observa la preparación de la mezcla para panqueques, posiblemente vertiendo la masa en un recipiente o mezclando los ingredientes.
+* Label: WRONG
+* Error: None
+
+**Paso 5**:
+* Start: 01:29
+* End: 02:09
+* Action: La persona está mezclando la masa para panqueques en un tazón con un batidor. Hay varios ingredientes y utensilios en la encimera, incluyendo aceite, miel, leche, y un medidor.
+* Label: WRONG
+* Error: None
+
+**Paso 5**:
+* Start: 01:29
+* End: 02:19
+* Action: Una persona está preparando una masa para panqueques en un tazón, añadiendo ingredientes líquidos.
+* Label: WRONG
+* Error: None
+
+**Paso 5**:
+* Start: 01:29
+* End: 02:29
+* Action: Mezclando la masa de los panqueques en un tazón de vidrio.
+* Label: CORRECT
+* Error: None
+
